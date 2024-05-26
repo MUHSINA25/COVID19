@@ -1,5 +1,3 @@
-# COVID19
-
 # COVID-19 Dashboard
 
 ## Overview
@@ -80,11 +78,5 @@ Provides insights into how COVID-19 spread over time, showing monthly trends and
 
 **Purpose:**
 Provides insights into testing efforts and critical cases, showing the extent and effectiveness of testing across regions.
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/covid19-dashboard.git
 
 
