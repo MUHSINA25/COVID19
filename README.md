@@ -42,10 +42,16 @@ Data Sources
 The dashboard integrates data from:
 
 country_wise_latest.csv
+
 covid_19_clean_complete.csv
+
 day_wise.csv
+
 full_grouped.csv
+
 usa_county_wise.csv
+
 worldometer_data.csv
+
 Each dataset has been thoroughly cleaned and preprocessed to ensure accuracy and relevance for visualizations.
 
