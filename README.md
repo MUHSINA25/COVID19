@@ -74,54 +74,78 @@ Provides a high-level summary of the pandemic’s impact, showing regional varia
 - Brazil and India also show significant ongoing transmission with high numbers of active cases.
 - Geographical representation highlights the US and Brazil as major hotspots with the highest number of confirmed cases in their respective continents.
 
-### 2. Monthly Trends
+## Page 2: Monthly Trends
+
+**Key Insight:**
+- This page offers a detailed overview of the monthly trends in COVID-19 cases and related statistics, providing users with valuable insights into the evolution of the pandemic over time.
 
 **Features:**
 - **Month Selector:**
   - **Purpose:** Allows users to filter data by month.
-  - **Insight:** Users can see how the pandemic evolved over time on a month-by-month basis.
+  - **Insight:** Users can track the evolution of the pandemic on a month-by-month basis.
 
 - **Line Chart (Total New Cases by Month):**
-  - **Purpose:** Shows the rise in new cases from January to July.
+  - **Purpose:** Displays the rise in new cases from January to July.
   - **Insight:** 
     - **January:** 9,293 new cases.
+    - **February:** 74,750 new cases.
+    - **March:** 754,288 new cases.
+    - **April:** 2,347,191 new cases.
+    - **May:** 2,850,231 new cases.
+    - **June:** 4,177,514 new cases.
     - **July:** 5.9 million new cases.
-  - **Insight:** The exponential increase in new cases shows the rapid spread of the virus.
+  - **Insight:** The exponential increase in new cases underscores the rapid spread of the virus.
 
 - **Area Chart (Total Confirmed Cases by Country):**
-  - **Purpose:** Displays the top 5 countries by confirmed cases.
-  - **Insight:** The US has about 0.22 billion cases, indicating it is the hardest-hit country.
+  - **Purpose:** Highlights the top 5 countries by confirmed cases.
+  - **Insight:** 
+    - **US:** Approximately 220 million cases.
+    - **Brazil:** Approximately 90 million cases.
+    - **Russia:** Approximately 50 million cases.
+    - **India:** Approximately 40 million cases.
+    - **Chile:** Approximately 20 million cases.
+  - **Insight:** The US leads in confirmed cases, followed by Brazil, Russia, India, and Chile.
 
 - **Tree Map (Total Active Cases by WHO Region):**
-  - **Purpose:** Highlights active cases by WHO region.
-  - **Insight:** The Americas have the most active cases, reflecting ongoing transmission and possibly limited control measures.
+  - **Purpose:** Visualizes active cases by WHO region.
+  - **Insight:** 
+    - **Americas:** 224,021,314 active cases.
+    - **Europe:** 101,469,524 active cases.
+    - **South-East Asia:** 23,292,597 active cases.
+    - **Eastern Mediterranean:** 22,808,084 active cases.
+    - **Africa:** 8,015,529 active cases.
+    - **Western Pacific:** 6,365,962 active cases.
+  - **Insight:** The Americas have the most active cases, indicating ongoing transmission, followed by other regions.
 
 - **Funnel Chart (Total New Deaths by Month):**
   - **Purpose:** Shows deaths per month.
   - **Insight:** 
     - **April:** 188,000 deaths.
     - **January:** 196 deaths.
-  - **Insight:** The peak in April indicates a high mortality rate during this period, possibly due to overwhelmed healthcare systems.
+  - **Insight:** The peak in April signifies a high mortality rate, possibly due to overwhelmed healthcare systems.
 
 - **Stacked Column Chart (Total Affected Countries by Month):**
   - **Purpose:** Indicates the number of countries affected each month.
   - **Insight:** 
-    - **March:** 29 affected countries.
+    - **January:** 9 affected countries.
     - **February:** 12 affected countries.
-  - **Insight:** The increase in affected countries shows the global spread of the virus.
+    - **March:** 29 affected countries.
+    - **April:** 5 affected countries.
+    - **May:** 1 affected country.
+  - **Insight:** The increase in affected countries demonstrates the global spread of the virus.
 
-- **Map (Total Active Cases by Country):**
-  - **Purpose:** Shows active cases by country, updated based on the selected month.
-  - **Insight:** Provides a month-by-month geographical spread of active cases.
-
-**Purpose:**
-Provides insights into how COVID-19 spread over time, showing monthly trends and the increasing impact.
+### Map (Total Active Cases by Country):
+- **Purpose:** Displays active cases by country, updated based on the selected month.
+- **Insight:** Offers a month-by-month geographical spread of active cases. 
+  - **Top Region:** The Americas have the highest number of active cases, totaling 156,980,485.
+  - **Key Observation:** This distribution highlights regions where the virus is most prevalent, emphasizing the global impact of the pandemic.
 
 **Key Insights:**
-- There is an exponential increase in new cases from January to July, indicating rapid spread.
-- The US consistently leads in total confirmed cases each month.
-- Active cases are predominantly in the Americas, showing regional hotspots.
-- Deaths peaked in April, suggesting the highest mortality rate during this period.
+- This page provides users with comprehensive insights into the monthly trends of COVID-19, aiding in better understanding and decision-making for pandemic response measures.
+- The exponential increase in new cases from January to July highlights the rapid spread of the virus.
+- The US consistently leads in total confirmed cases each month, underscoring the severity of the situation.
+- The concentration of active cases in the Americas suggests regional hotspots, necessitating targeted intervention efforts.
+- The peak in deaths in April signifies a critical period in the pandemic's impact on mortality rates.
 
 ### 3. Testing and Critical Cases
 
